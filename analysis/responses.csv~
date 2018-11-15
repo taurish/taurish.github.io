@@ -1,0 +1,13 @@
+Day,Participant,Recording 1 Age,Recording 1 Height,Recording 1 Weight,Recording 2 Age,Recording 2 Height,Recording 2 Weight,Recording 3 Age,Recording 3 Height,Recording 3 Weight,Recording 4 Age,Recording 4 Height,Recording 4 Weight,Recording 5 Age,Recording 5 Height,Recording 5 Weight,Who is older in 6 and 7?,Who is taller in 6 and 7?,Who is heavier in 6 and 7?,Who is older in 8 and 9?,Who is taller in 8 and 9?,Who is heavier in 8 and 9?
+1,correct,25,158.4,46,21,158.5,48.5,18,164.8,67.4,19,179.7,66.8,22,179.9,81.6,Recording 7,Recording 7,Recording 6,Recroding 8,Recording 9,Recording 8
+1,rsingh,25,162.5,63.5,28,167.64,72.5,26,160,68,35,167.64,72.5,35,170.18,72.5,Recording 7,Recording 6,Recording 6,Recording 9,Recording 8,Recording 8
+1,bhikshar,21,163,60,18,160,55,25,170,55,25,175,65,30,170,60,Recording 7,Recording 6,Recording 6,Recording 8,Recording 8,Recording 8
+1,bmartin1,23,160,60,24,160,60,23,150,70,22,165,50,26,170,60,Recording 7,Recording 6,Recording 7,Recording 8,Recording 8,Recording 8
+1,yang,17,158,55,18,165,65,22,160,60,25,170,65,23,165,60,Recording 7,Recording 7,Recording 6,Recording 9,Recording 8,Recording 9
+1,hyd,23,155,40,20,150,45,24,155,45,25,160,50,25,150,50,Recording 7,Recording 7,Recording 6,Recording 9,Recording 8,Recording 9
+1,yandongw,25,165,60,12,150,40,20,160,55,30,165,60,25,170,65,Recording 7,Recording 7,Recording 7,Recording 9,Recording 9,Recording 9
+1,mahmoudi,25,175,65,21,173,66,19,165,70,29,170,75,31,160,69,Recording 7,Recording 6,Recording 7,Recording 9,Recording 8,Recording 9
+1,samemon,28,167.64,62,26,165.1,65,20,165,50,30,170.18,60,27,167.64,58,Recording 7,Recording 7,Recording 6,Recording 9,Recording 8,Recording 9
+1,yangyanx,28,170,60,25,160,50,22,160,50,22,165,55,26,170,60,Recording 6,Recording 6,Recording 7,Recording 9,Recording 8,Recording 8
+1,wenbo,28,165,48,23,160,48,25,165,45,28,170,55,32,172,55,Recording 7,Recording 7,Recording 7,Recording 9,Recording 8,Recording 9
+2,samemon,27,165,65,30,165,70,35,167,85,30,170.6,85,19,170.68,50,Recording 6,Recording 6,Recording 7,Recording 9,Recording 8,Recording 9

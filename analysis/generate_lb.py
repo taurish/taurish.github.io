@@ -1,0 +1,2 @@
+def generate_leaderboard(leaders):
+    return "<li><mark>"+leaders[0][0]+"</mark><small>"+str(round(leaders[0][1],2))+"</small></li><li><mark>"+leaders[1][0]+"</mark><small>"+str(round(leaders[1][1],2))+"</small></li>"+"<li><mark>"+leaders[2][0]+"</mark><small>"+str(round(leaders[2][1],2))+"</small></li><li><mark>"+leaders[3][0]+"</mark><small>"+str(round(leaders[3][1],2))+"</small></li><li><mark>"+leaders[4][0]+"</mark><small>"+str(round(leaders[4][1],2))+"</small></li>"

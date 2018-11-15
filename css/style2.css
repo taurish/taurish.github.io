@@ -1,0 +1,45 @@
+@import "compass/css3";
+
+body {
+  background-color:#233333;
+  color:#9e99aa;
+  font-family: sans-serif
+}
+
+#header-wrapper {
+  margin:2.5%
+}
+
+h1 {
+  float:left
+}
+
+p {
+  float:right
+}
+
+table {
+  width:95%;
+  margin:2.5%;
+  border-collapse:collapse;
+  border:0 none
+}
+
+td {
+  width:20%;
+  border: 1px dashed #666; 
+  text-align:center;
+  transition:all .75s ease-in-out
+}
+td img{
+  border:2px #122222 solid;
+  border-radius: 6px;
+}
+td:hover {
+  width:50%;
+  transition:all .75s ease-in-out
+}
+
+td img {
+  width:90%
+}
